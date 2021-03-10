@@ -94,7 +94,16 @@ export const data = {
     }
   ],
   "filePathRelative": "2020.08.md",
-  "git": {}
+  "git": {
+    "updatedTime": 1615357990000,
+    "contributors": [
+      {
+        "name": "Jialin Jiang",
+        "email": "jialinjiang@JialindeMacBook-Pro.local",
+        "commits": 1
+      }
+    ]
+  }
 }
 
 if (import.meta.webpackHot) {
