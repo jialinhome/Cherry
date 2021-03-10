@@ -46,10 +46,9 @@ jobs:
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@3.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           # 部署到 gh-pages 分支
-          target_branch: gh-pages
+          BRANCH: gh-pages
           # 部署目录为 VuePress 的默认输出目录
-          build_dir: docs/.vuepress/dist
+          FOLDER: docs/.vuepress/dist
