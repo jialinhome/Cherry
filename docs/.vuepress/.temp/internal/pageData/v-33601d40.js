@@ -1,12 +1,12 @@
 export const data = {
-  "key": "v-8daa1a0e",
-  "path": "/",
-  "title": "Orange",
+  "key": "v-33601d40",
+  "path": "/2020.11.html",
+  "title": "",
   "lang": "en-US",
   "frontmatter": {},
   "excerpt": "",
   "headers": [],
-  "filePathRelative": "README.md",
+  "filePathRelative": "2020.11.md",
   "git": {}
 }
 

@@ -1,4 +1,15 @@
 export const pagesData = {
-  "/": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-8daa1a0e.js").then(({ data }) => data),
   "/404.html": () => import(/* webpackChunkName: "v-3706649a" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-3706649a.js").then(({ data }) => data),
+  "/2020.01.html": () => import(/* webpackChunkName: "v-030c3c02" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-030c3c02.js").then(({ data }) => data),
+  "/2020.04.html": () => import(/* webpackChunkName: "v-03986bdc" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-03986bdc.js").then(({ data }) => data),
+  "/2020.05.html": () => import(/* webpackChunkName: "v-054d447b" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-054d447b.js").then(({ data }) => data),
+  "/2019.12.html": () => import(/* webpackChunkName: "v-77336bc9" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-77336bc9.js").then(({ data }) => data),
+  "/2020.07.html": () => import(/* webpackChunkName: "v-08b6f5b9" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-08b6f5b9.js").then(({ data }) => data),
+  "/2020.06.html": () => import(/* webpackChunkName: "v-07021d1a" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-07021d1a.js").then(({ data }) => data),
+  "/2020.09.html": () => import(/* webpackChunkName: "v-0c20a6f7" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-0c20a6f7.js").then(({ data }) => data),
+  "/2020.10.html": () => import(/* webpackChunkName: "v-31ab44a1" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-31ab44a1.js").then(({ data }) => data),
+  "/2020.08.html": () => import(/* webpackChunkName: "v-0a6bce58" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-0a6bce58.js").then(({ data }) => data),
+  "/2020.11.html": () => import(/* webpackChunkName: "v-33601d40" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-33601d40.js").then(({ data }) => data),
+  "/2021.02.html": () => import(/* webpackChunkName: "v-d719acc2" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-d719acc2.js").then(({ data }) => data),
+  "/": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-8daa1a0e.js").then(({ data }) => data),
 }
