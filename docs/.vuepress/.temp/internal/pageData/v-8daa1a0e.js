@@ -7,10 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "filePathRelative": "README.md",
-  "git": {}
-}
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  __VUE_HMR_RUNTIME__.updatePageData(data)
+  "git": {
+    "updatedTime": 1615349741000,
+    "contributors": [
+      {
+        "name": "Jialin Jiang",
+        "email": "jialinjiang@JialindeMacBook-Pro.local",
+        "commits": 1
+      }
+    ]
+  }
 }
