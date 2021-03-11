@@ -12,4 +12,5 @@ export const pagesData = {
   "/2019.12/": () => import(/* webpackChunkName: "v-62a5231f" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-62a5231f.js").then(({ data }) => data),
   "/2020.01/": () => import(/* webpackChunkName: "v-63db2455" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-63db2455.js").then(({ data }) => data),
   "/404.html": () => import(/* webpackChunkName: "v-3706649a" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-3706649a.js").then(({ data }) => data),
+  "/2021.03.html": () => import(/* webpackChunkName: "v-d3affb84" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageData/v-d3affb84.js").then(({ data }) => data),
 }

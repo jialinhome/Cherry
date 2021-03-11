@@ -12,6 +12,7 @@ import pageRoutes9 from '/Users/jialinjiang/self-project/orange-vuepress/docs/.v
 import pageRoutes10 from '/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageRoutes/v-62a5231f.js'
 import pageRoutes11 from '/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageRoutes/v-63db2455.js'
 import pageRoutes12 from '/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageRoutes/v-3706649a.js'
+import pageRoutes13 from '/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/internal/pageRoutes/v-d3affb84.js'
 
 export const pagesRoutes = [
   ...pageRoutes0,
@@ -27,6 +28,7 @@ export const pagesRoutes = [
   ...pageRoutes10,
   ...pageRoutes11,
   ...pageRoutes12,
+  ...pageRoutes13,
   {
     name: "404",
     path: "/:catchAll(.*)",

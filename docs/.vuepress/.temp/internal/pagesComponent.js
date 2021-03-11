@@ -14,4 +14,5 @@ export const pagesComponent = {
   "/2019.12/": defineAsyncComponent(() => import(/* webpackChunkName: "v-62a5231f" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/pages/2019.12/index.vue")),
   "/2020.01/": defineAsyncComponent(() => import(/* webpackChunkName: "v-63db2455" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/pages/2020.01/index.vue")),
   "/404.html": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/pages/404.html.vue")),
+  "/2021.03.html": defineAsyncComponent(() => import(/* webpackChunkName: "v-d3affb84" */"/Users/jialinjiang/self-project/orange-vuepress/docs/.vuepress/.temp/pages/2021.03.vue")),
 }

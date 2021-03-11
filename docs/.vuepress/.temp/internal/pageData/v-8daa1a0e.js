@@ -8,12 +8,12 @@ export const data = {
   "headers": [],
   "filePathRelative": "README.md",
   "git": {
-    "updatedTime": 1615357990000,
+    "updatedTime": 1615360492000,
     "contributors": [
       {
         "name": "Jialin Jiang",
         "email": "jialinjiang@JialindeMacBook-Pro.local",
-        "commits": 2
+        "commits": 3
       }
     ]
   }
