@@ -28,6 +28,11 @@ module.exports = {
                     '/month/2021.03.md',
                     '/month/2021.04.md',
                     '/month/2021.06.md',
+                    '/month/2021.12.md',
+                    '/month/2022.03.md',
+                    '/month/2022.06.md',
+                    '/month/2022.07.md',
+                    '/month/2023.03.md',
                   ]
                 },
                 {
